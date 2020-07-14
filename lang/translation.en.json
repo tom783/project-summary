@@ -1,0 +1,10 @@
+{
+  "hello":"Hello world",
+  "case":"case",
+  "nav":{
+    "dashboard":"nav"
+  },
+  "message.hello": "Hello",
+  "message.email": "Email",
+  "n.selected": "{{n}} selected."
+}
